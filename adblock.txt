@@ -1,3 +1,4 @@
+||ads.pinterest.com^
 ||cdn.mouseflow.com^
 ||insights.hotjar.com^
 ||cdn.luckyorange.com^
@@ -299,9 +300,7 @@
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||wwwctp.googletagmanager.com^
-||youtube.googleapis.com^
 ||zfgbxkotjxujhmpo.storage.googleapis.com^
-! Android
 ||1-market.android.com^
 ||a.android.com^
 ||a17-250-248-101.android.com^
@@ -396,7 +395,6 @@
 ||wear.android.com^
 ||webcache.googleusercontent.com^
 ||www.android.com^
-! Area120
 ||kormo.com^
 ||rivet.area120.com^
 ||staykeen.com^
@@ -406,7 +404,6 @@
 ||www.rivet.area120.com^
 ||www.staykeen.com^
 ||www.tangi.co^
-! DNS
 ||014dcb18-dnsotls-ds.metric.gstatic.com^
 ||01546dba-dnsotls-ds.metric.gstatic.com^
 ||05ead28d-dnsotls-ds.metric.gstatic.com^
@@ -3319,20 +3316,11 @@
 ||googlesource.com^
 ||googlesucks.com^
 ||googletraveladservices.com^
-||googleusercontent.com^
-||googlevideo.com^
 ||googlew.com^
 ||googlezip.net^
 ||gooogleapi.com^
 ||goto.corp.google.com^
-||gp1.googleusercontent.com^
-||gp2.googleusercontent.com^
-||gp3.googleusercontent.com^
 ||gp3gie1qbl.com^
-||gp4.googleusercontent.com^
-||gp5.googleusercontent.com^
-||gp6.googleusercontent.com^
-||gp7.googleusercontent.com^
 ||gpayslips.corp.google.com^
 ||gphone.svc-1.google.com^
 ||groups-beta.google.com^
