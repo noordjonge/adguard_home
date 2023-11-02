@@ -1,3 +1,13 @@
+||advertising.apple.com^
+||tr.iadsdk.apple.com^
+||iadsdk.apple.com^
+||metrics.icloud.com^
+||metrics.apple.com^
+||metrics.mzstatic.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
 ||ads.pinterest.com^
 ||cdn.mouseflow.com^
 ||insights.hotjar.com^
