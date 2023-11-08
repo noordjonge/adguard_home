@@ -902,7 +902,6 @@
 ||get.google.com^
 ||gg.google.com^
 ||ggoogle.com^
-||ggpht.com^
 ||ghs-svc-https-c46.ghs-ssl.googlehosted.com^
 ||glass.google.com^
 ||gmodules.com^
@@ -1193,7 +1192,6 @@
 ||www6.google.com^
 ||www9.google.com^
 ||yp.google.com^
-||yt4.ggpht.com^
 ! Doubleclick
 ||0.fls.doubleclick.net^
 ||00.fls.doubleclick.net^
