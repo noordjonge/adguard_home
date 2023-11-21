@@ -383,7 +383,6 @@
 ||source.android.com^
 ||speechs3proto2-pa.googleapis.com^
 ||static.googleadsserving.cn^
-||stats.blogger.com^
 ||supl.google.com^
 ||time.android.com^
 ||time1.android.com^
@@ -786,9 +785,6 @@
 ||blobcomments-pa.clients3.google.com^
 ||blobcomments-pa.clients4.google.com^
 ||blobcomments-pa.clients5.google.com^
-||blog.google.com^
-||blogger.google.com^
-||blogging.google.com^
 ||bmt.google.com^
 ||book.google.com^
 ||bookmarks.google.com^
@@ -807,7 +803,6 @@
 ||c8ceb739c3094faffe42faa6b798e80b.safeframe.googlesyndication.com^
 ||ca6de71f560f9631037e80d5e8c08256.safeframe.googlesyndication.com^
 ||cacf1bd81426438163ae43128c9dda13.safeframe.googlesyndication.com^
-||calendar.google.com^
 ||careers.google.com^
 ||cast.google.com^
 ||catalog.google.com^
@@ -2533,7 +2528,6 @@
 ||blobcomments-pa.clients6.google.com^
 ||blog.dialogflow.com^
 ||blog.google^
-||blogger.com^
 ||blogsearch.google.com^
 ||blogspot.com^
 ||blogspot.l.googleusercontent.co^
@@ -3107,12 +3101,10 @@
 ||mv99azr2lu.com^
 ||mw1.google.com^
 ||mw2.google.com^
-||mx.google.com^
 ||myaccount.google.com^
 ||myactivity.google.com^
 ||mybusiness.google.com^
 ||mydevices.google.com^
-||mymaps.google.com^
 ||myscoop-tracking.googlecode.com^
 ||mystuff.corp.google.com^
 ||mzkdkfvrak.com^
@@ -3291,7 +3283,6 @@
 ||r1---sn-gwpa-jj06.gvt1.com^
 ||r1---sn-hp57knz6.c.drive.google.com^
 ||r1---sn-hxb54vo-3046.gvt1.com^
-||r1---sn-i3b7kn76.c.offline.maps.google.com^
 ||r1---sn-ipoxu-un56.gvt1.com^
 ||r1---sn-jou-5u46.gvt1.com^
 ||r1---sn-ni57dn76.gvt1.com^
@@ -3572,19 +3563,13 @@
 ||r3.sn-5n3-n1qe.gvt1.com^
 ||r3.sn-aigl6n76.gvt1.com^
 ||r3.sn-h0jeln7l.gvt.com^
-||r3.sn-h5576n7k.c.drive.google.com^
-||r3.sn-hp57yn7r.c.drive.google.com^
 ||r3.sn-hufvjvgx-coxe.gvt1.com^
-||r3.sn-i3beln7s.c.play.google.com^
 ||r3.sn-npoe7n76.gvt1.com^
-||r3.sn-npoe7n7y.c.video.google.com^
 ||r3.sn-ntqe6n76.gvt1.com^
 ||r3.sn-nx5e6n76.gvt1.com^
 ||r3.sn-nx5s7n76.gvt1.com^
 ||r3.sn-o097znl6.gvt1.com^
 ||r3.sn-o097znld.gvt1.com^
-||r3.sn-ogueln7z.c.offline.maps.google.com^
-||r3.sn-oguesnze.c.play.google.com^
 ||r3.sn-oxupm-nv4l.gvt1.com^
 ||r3.sn-p5qlsndd.gvt1.com^
 ||r3.sn-p5qlsnz6.gvt1.com^
