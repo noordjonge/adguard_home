@@ -6567,3 +6567,4 @@
 ||www.viper.jibemobile.com^
 ||www.watermelon.jibemobile.com^
 ||yellowstone.jibemobile.com^
+||googlesyndication.com^
