@@ -6568,3 +6568,4 @@
 ||www.watermelon.jibemobile.com^
 ||yellowstone.jibemobile.com^
 ||googlesyndication.com^
+||pagead-googlehosted.l.google.com^
