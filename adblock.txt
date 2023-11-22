@@ -6565,8 +6565,10 @@
 ||www.tofu.jibemobile.com^
 ||www.tokyo.jibemobile.com^
 ||www.viper.jibemobile.com^
-||www.watermelon.jibemobile.com^
-||yellowstone.jibemobile.com^
-||googlesyndication.com^
-||pagead-googlehosted.l.google.com^
-||doubleclick.net^
+||www.watermelon.jibemobile.com^$important
+||yellowstone.jibemobile.com^$important
+||googlesyndication.com^$important
+||pagead-googlehosted.l.google.com^$important
+||doubleclick.net^$important
+||adsafeprotected.com^$important
+||unified.adsafeprotected.com^$important
