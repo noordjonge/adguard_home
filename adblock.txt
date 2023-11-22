@@ -6569,3 +6569,4 @@
 ||yellowstone.jibemobile.com^
 ||googlesyndication.com^
 ||pagead-googlehosted.l.google.com^
+||doubleclick.net^
